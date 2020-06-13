@@ -1,5 +1,5 @@
 # Phát triển ứng dụng trên thiết bị di động (TN216)
-# Mobile Application Development
+## Mobile Application Development
 
 Chương 1:  Tổng quan về lập trình trên thiết bị di động
 - Tạo dự án đơn giản
