@@ -1,7 +1,8 @@
 # Phát triển ứng dụng trên thiết bị di động_Mobile Application Development (TN216)
 
 ### Chương 1:  Tổng quan về lập trình trên thiết bị di động
-- Tạo dự án đơn giản
+- Tạo dự án theo mẫu cho trước
+- Theo dõi cửa sổ Logcat
 - Xuất bản ứng dụng
 
 ### Chương 2:  Ứng dụng và Activity
